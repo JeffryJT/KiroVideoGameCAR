@@ -1,2 +1,2 @@
 # KiroVideoGameCAR
-Una Web en KIRO
+Una Videojuego en KIRO
